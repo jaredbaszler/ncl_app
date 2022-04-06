@@ -25,8 +25,8 @@ class ShipDetail extends ConsumerWidget {
     required ShipInfo shipInfo,
   }) {
     return SizedBox(
-      height: 325,
-      width: 400,
+      height: MediaQuery.of(context).size.height < 500 ? double.infinity : 350,
+      width: MediaQuery.of(context).size.width < 400 ? double.infinity : 450,
       child: Card(
         elevation: 10,
         child: Column(

@@ -22,6 +22,7 @@ class HomePage extends ConsumerWidget {
             Text(
               'Select a ship to view more details',
               style: Theme.of(context).textTheme.headline2,
+              textAlign: TextAlign.center,
             ),
             for (var ship in Ships.values)
               Padding(
