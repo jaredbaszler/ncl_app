@@ -1,0 +1,24 @@
+{
+  "shipName": "Norwegian Sky",
+  "code": "SKY",
+  "allowedGuestCount": 5,
+  "shipDescription": "Refurbished from bow to stern in 2019, Norwegian Sky offers the most inclusive contemporary cruise vacation at sea. From the moment you step aboard, you’ll see that Norwegian Sky offers something for everyone: 10 dining options, a wide variety of bars and lounges, an onboard spa and a casino that has all of your favorite games and slots. The popular Norwegian Sky offers 3- and 4-day cruises year round to the Bahamas from Miami. And, if you decide to bring the kids, we'll keep them entertained all day, while you lounge by the pool, play in the casino, or enjoy dinner at one of many restaurants. ",
+  "shipDescriptionHtml": "<b>Completely Refurbished in 2019</b>\nFrom the moment you step aboard, you'll see that Norwegian Sky, refurbished from bow to stern in 2019, offers something for everyone. On our <a href=\"http://www.ncl.com/cruise-destinations/bahamas-florida-cruises\" title=\"Bahamas Cruises\" class=\"clearlink\">Bahamas cruises</a> your options are nearly limitless with 10 dining options, a wide variety of bars and lounges, an onboard spa, and a cruise casino that has all of your favorite games and slots. The popular Norwegian Sky offers 3- and 4-day cruises year-round to the <a href=\"/freestyle-cruise/sky-bahamas-cruises\" title=\"Bahamas Cruises from Miami\" class=\"clearlink\">Bahamas from Miami</a>. And, if you decide to bring the kids, we'll keep them entertained all day, while you lounge by the pool, play in the casino, or enjoy dinner at one of many restaurants.\n<a data-leads=\"true\" href=\"/ncl_inside_scoop\" id=\"inside_scoop\" class=\"site-modal autobox\" title=\"Sign Up For Special Offers\" data-width=\"770\" data-height=\"600\"></a>\n\n",
+  "accessCode": "SKY",
+  "wesbCode": "SKY",
+  "recategorizationDate": "2020-03-02",
+  "recategorizationDefaultView": "2",
+  "name": "Norwegian Sky",
+  "shipFacts": {
+    "passengerCapacity": "2,004 (double occupancy)",
+    "grossRegisterTonnage": "77,104",
+    "overallLength": "848",
+    "maxBeam": "123",
+    "draft": "26.2 feet",
+    "engines": "Diesel Electric",
+    "cruiseSpeed": "22 knots",
+    "crew": "899",
+    "inauguralDate": "1999",
+    "remodeledDate": "2019"
+  }
+}
