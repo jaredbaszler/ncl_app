@@ -1,16 +1,17 @@
-# ncl_app
+# NCL App
 
-A new Flutter project.
+Flutter project to display minor details of an NCL cruise ship.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Things to add if more time:
+1. Check connectivity
+2. Testing (Unit, Widget & Integrtation)
+3. Caching the API data
 
-A few resources to get you started if this is your first Flutter project:
+Notes:
+1. Went with colors and fonts harvested from Regents website since that is the team I'll be working with
+2. State Management: Riverpod
+3. Used VS Code Extension JSON to Dart Model for the first time to quickly build data model based on JSON provided from API
+4. very_good_analysis linter was used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
